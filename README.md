@@ -5,11 +5,6 @@ un simple programme en golang te permettant via un algo de changer de status via
 
 -----
 
-### 💻 ☆ Language Utilisé :
-
-[Languages](https://skillicons.dev/icons?i=go)](https://skillicons.dev) 
-
------
 
 ### 🌐 ☆ Prérequis , Installation :
   Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
